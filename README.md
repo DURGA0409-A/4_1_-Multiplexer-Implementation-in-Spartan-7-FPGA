@@ -73,5 +73,7 @@ set_property -dict {PACKAGE_PIN G1 IOSTANDARD LVCMOS33} [get_ports {y}]
 ```
 # FPGA Implementation Output
 
+![Uploading 4x1 mux.jpeg…]()
+
 # Conclusion
 The 4:1 multiplexer was successfully designed,synthesized, and implemented (bitstream generated) in the Spartan-7 FPGA. The output matches the expected truth table.
